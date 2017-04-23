@@ -1,9 +1,9 @@
-# fish-plugin-peco_find
+# peco_find
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_find
+$ fisher unreliable-angels/peco_find
 ```
 
 ## Example key binding
